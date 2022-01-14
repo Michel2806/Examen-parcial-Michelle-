@@ -1,4 +1,4 @@
-# Examen-parcial-Michelle-
+# GBI6_ExamenParcial1
 ##  Datos personales ## 
 Nombres:Katherine Michelle
 
