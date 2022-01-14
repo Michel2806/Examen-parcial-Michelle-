@@ -18,7 +18,8 @@ Marca Dell
 ## Programas utilizados ## 
 GitHub
 
-el cuaderno de Jupyter - Anaconda
+el cuaderno de Jupyter - Anaconda (phyton)
 
 
 ## Explicación de la data utilizada ## 
+Se crea un directorio para solucionar desde nuestra computadora los problemas o ejercicios en github,  tambien colocamos git pull para actualizar el contenido de  nuestro repositorio
