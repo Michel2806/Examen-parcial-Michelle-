@@ -24,10 +24,9 @@ Marca Dell
 ## Programas utilizados ## 
 GitBash 
 
-GitHub
-
 Jupyterlab - Anaconda 
 
-## Explicación de la data utilizada ##
+GitHub
 
-Se crea un directorio para solucionar desde nuestra computadora los problemas o ejercicios en gitbash,  tambien colocamos git pull para actualizar el contenido de  nuestro repositorio
+## Explicación de la data utilizada ##
+Se observa el control de repositorio  , por lo cual se crea un directorio para solucionar desde nuestra computadora los problemas o ejercicios en gitbash.  Tambien colocamos git pull para actualizar el contenido de nuestro repositorio y para que cargue el documento en GitHub colocamos el git push.
